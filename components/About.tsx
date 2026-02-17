@@ -108,7 +108,7 @@ export const About: React.FC = () => {
                   </div>
                   <div className="flex items-center gap-2">
                     <span>🌱</span>
-                    <span>Contributing to open-source projects</span>
+                    <span>Finding new Tech Alternatives in the market!</span>
                   </div>
                   <div className="flex items-center gap-2">
                     <span>📚</span>
@@ -116,7 +116,7 @@ export const About: React.FC = () => {
                   </div>
                   <div className="flex items-center gap-2">
                     <span>🤖</span>
-                    <span>Experimenting with AI/ML applications</span>
+                    <span>Experimenting with Technologies</span>
                   </div>
                 </div>
               </div>

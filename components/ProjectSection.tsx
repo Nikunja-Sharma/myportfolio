@@ -80,7 +80,7 @@ export const ProjectSection: React.FC<ProjectSectionProps> = ({ project, index }
             </div>
 
             {/* External Links */}
-            {(project.githubUrl || project.liveUrl) && (
+            {/* {(project.githubUrl || project.liveUrl) && (
               <div className="flex flex-col sm:flex-row gap-3 sm:gap-4 pt-2 sm:pt-4">
                 {project.githubUrl && (
                   <a
@@ -105,7 +105,7 @@ export const ProjectSection: React.FC<ProjectSectionProps> = ({ project, index }
                   </a>
                 )}
               </div>
-            )}
+            )} */}
           </div>
 
           {/* Visual Side */}

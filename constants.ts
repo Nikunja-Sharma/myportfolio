@@ -219,23 +219,23 @@ export const PROJECTS: Project[] = [
     githubUrl: "https://github.com/nikunja-sarma/iot-poultry-monitoring",
     imageUrl: "/images/projects/iot-poultry.jpg"
   },
-  {
-    id: "langchain-scraper",
-    title: "LangChain Web Scraper",
-    description: "Intelligent web scraping tool using LangChain for data extraction and processing",
-    techStack: ["Python", "LangChain", "BeautifulSoup", "OpenAI"],
-    features: [
-      "AI-powered content extraction and summarization",
-      "Automated data cleaning and structuring",
-      "Multi-site scraping with rate limiting",
-      "Export to various formats (JSON, CSV, PDF)"
-    ],
-    category: "ai",
-    featured: false,
-    diagramType: 'ai',
-    githubUrl: "https://github.com/nikunja-sarma/langchain-web-scraper",
-    imageUrl: "/images/projects/langchain-scraper.jpg"
-  },
+  // {
+  //   id: "langchain-scraper",
+  //   title: "LangChain Web Scraper",
+  //   description: "Intelligent web scraping tool using LangChain for data extraction and processing",
+  //   techStack: ["Python", "LangChain", "BeautifulSoup", "OpenAI"],
+  //   features: [
+  //     "AI-powered content extraction and summarization",
+  //     "Automated data cleaning and structuring",
+  //     "Multi-site scraping with rate limiting",
+  //     "Export to various formats (JSON, CSV, PDF)"
+  //   ],
+  //   category: "ai",
+  //   featured: false,
+  //   diagramType: 'ai',
+  //   githubUrl: "https://github.com/nikunja-sarma/langchain-web-scraper",
+  //   imageUrl: "/images/projects/langchain-scraper.jpg"
+  // },
   {
     id: "discord-bot",
     title: "Discord Bot",

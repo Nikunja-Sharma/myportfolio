@@ -147,15 +147,15 @@ const App: React.FC = () => {
               <p className="text-textMuted text-xs sm:text-sm font-mono">
                 &copy; {new Date().getFullYear()} Nikunja Sarma. Built with React & Tailwind.
               </p>
-              <p className="text-textMuted/50 text-xs mt-1 sm:mt-2">
+              {/* <p className="text-textMuted/50 text-xs mt-1 sm:mt-2">
                 System Status: <span className="text-green-500">OPERATIONAL</span>
-              </p>
+              </p> */}
             </div>
           </div>
         </footer>
       </main>
       
-      <ChatWidget />
+      {/* <ChatWidget /> */}
     </div>
   );
 };
