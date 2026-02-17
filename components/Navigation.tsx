@@ -64,7 +64,7 @@ export const Navigation: React.FC<NavigationProps> = ({
       <div className="container mx-auto px-4 sm:px-6 flex justify-between items-center">
         {/* Logo */}
         <div className="text-lg sm:text-xl font-heading font-bold tracking-tighter">
-          NS<span className="text-primary">.</span>DEV
+          Nikunja<span className="text-primary">.</span>cloud
         </div>
 
         {/* Desktop Navigation */}

@@ -40,7 +40,7 @@ export const Hero: React.FC<HeroProps> = ({ onNavigateToArchitecture }) => {
             <h2 className="text-xl sm:text-2xl md:text-3xl lg:text-4xl font-heading font-medium text-textMuted max-w-3xl leading-snug mx-auto sm:mx-0">
               {HEADLINE}
             </h2>
-            <p className="text-base sm:text-lg text-textMuted/80 font-sans max-w-2xl leading-relaxed border-l-4 border-secondary pl-4 sm:pl-6 py-1 mx-auto sm:mx-0">
+            <p className="text-base sm:text-lg text-textMuted/80 font-sans max-w-2xl leading-relaxed border-l-4 border-primary pl-4 sm:pl-6 py-1 mx-auto sm:mx-0">
               {SUBHEADLINE}
             </p>
           </div>
